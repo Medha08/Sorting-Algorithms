@@ -1,9 +1,10 @@
 # Sorting-Algorithms
-To get most out of the Tutorials follow these steps -
-
-  - [ ] Read Tutorial :memo:
-  - [ ] Look At Code :neckbeard:
-  - [ ] Try to do it on your own :+1:
-  - [ ] Analyze Complexity and Use :smile:
-  - [ ] Congrats ! You are ready to solve the problems :clap:
+Collection includes
+  1. Selection Sort
+  2. Bubble Sort 
+  3. Insertion Sort
+  4. Count Sort
+  5. Quick Sort
+  6. Radix Sort
+  7. Merge Sort
   
