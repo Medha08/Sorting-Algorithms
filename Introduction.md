@@ -27,19 +27,18 @@
   size of list -> n 
    - if we take n-> 2^64 then as Binary Search Time Complexity (Worst Case) is O(log n) ie log n comparisons, so it will take 64 ms to complete :relaxed:
    
-### Classification 
-   
-    **Time Complexity** ie rate of growth of time taken by an algorithm with respect to input size.
+### Classification
+**Time Complexity** ie rate of growth of time taken by an algorithm with respect to input size.
     
-    **Space Complexity** or Memory usage,  Inplace Sort -> constant memory to rearrange elements while other algorithms like Merge Sort use extra memory to temporarily store data which increase with input size . 
+**Space Complexity** or Memory usage,  Inplace Sort -> constant memory to rearrange elements while other algorithms like Merge Sort use extra memory to temporarily store data which increase with input size . 
     
-    **Stability** if we have set of cards 6 of heart , 9 of club , 6 of diamond and we want to sort by rank -> 6 of heart , 6 of diamond , 9 of club or we can do  6 of diamond ,6 of heart , 9 of club , The difference is that first is stable sort as arrangement of 6 in first algorithms has sorted cards according to the property but has also preserved the relative order of cards as in original list, while second has not so unstable.
+**Stability** if we have set of cards 6 of heart , 9 of club , 6 of diamond and we want to sort by rank -> 6 of heart , 6 of diamond , 9 of club or we can do  6 of diamond ,6 of heart , 9 of club , The difference is that first is stable sort as arrangement of 6 in first algorithms has sorted cards according to the property but has also preserved the relative order of cards as in original list, while second has not so unstable.
     
-    **Internal or External Sort**
+**Internal or External Sort**
     When all records which are sorted are present in main memory ->Internal Sort 
     when records are presnt in auxillary storage like disk ->External Sort 
     
-    **Recursive or Not Recursive **
+**Recursive or Not Recursive**
     Recursive-> Quick Sort and Merge Sort 
     Non Recursive -> Insertion Sort and Selection Sort
     
