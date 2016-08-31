@@ -19,7 +19,7 @@
   - 2,3,5,9,6 (Increasing order of number of factors) 2->1,2  ||   3->1,3  ||   5->1,5   ||   9->1,3,9   ||    6->1,2,3,6
   A sorted list is a permutation of original list , we only rearrange based on a property .
   
-  ### Magic
+### Magic
   If a list is unsorted we will have to do **Linear Search** 
     size of list -> n 
    - if we take n-> 2^64 then as Linear Search Time Complexity (Worst Case) is O(n) ie n comparisons, so it will take 2^64 ms to complete :cold_sweat:
@@ -27,7 +27,7 @@
   size of list -> n 
    - if we take n-> 2^64 then as Binary Search Time Complexity (Worst Case) is O(log n) ie log n comparisons, so it will take 64 ms to complete :relaxed:
    
-   ### Classification 
+### Classification 
    
     **Time Complexity** ie rate of growth of time taken by an algorithm with respect to input size.
     
